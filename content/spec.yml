@@ -1,0 +1,42 @@
+spec:
+ -  name: "Paradise"
+    timeToAnswer: 60
+    anounceFile: d sdds
+    questions:
+    - type: Music
+      meta: 
+        file: 'dsad'
+        text: sdsdsd
+      answer: 
+        file: "AAA"
+        text: AAAA
+      hint:
+        file: "Купи слона"
+        text: AAA
+
+    - type: Text
+      meta: 
+        file: 'dsad'
+        text: sdsdsd
+      answer: 
+        file: "AAA"
+        text: AAAA
+      hint:
+        file: "Купи слона"
+        text: AAA
+    
+    - type: OneOf
+      meta: 
+        file: 'dsad'
+        text: sdsdsd
+      answers: 
+        - file: ds
+          text: dssd
+        - file: dsd
+          text: dsada
+      answer: 
+        file: "AAA"
+        text: AAAA
+      hint:
+        file: "Купи слона"
+        text: AAA
